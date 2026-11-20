@@ -10,11 +10,10 @@
 
 <img src="./assets/sprite.svg" align="right" width="140" alt="pixel art" />
 
-- Sekarang lagi fokus bikin game di **Roblox** pakai Luau
-- Pernah bikin sistem pengenal bahasa isyarat **BISINDO** pakai Python
-- Ngerjain web pakai **Laravel** + Blade
-- Paling senang belajar lewat proyek nyata, dari game sampai computer vision
-- Terbuka buat kolaborasi, apalagi proyek game atau AI
+- Suka ngulik hal baru, terutama soal teknologi dan game
+- Lebih senang belajar sambil langsung praktek
+- Tertarik sama game development dan AI
+- Terbuka buat diskusi dan kolaborasi
 
 <br clear="right" />
 
